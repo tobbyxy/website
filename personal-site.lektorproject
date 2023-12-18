@@ -1,0 +1,5 @@
+[project]
+name = OA personal website
+
+[servers.ghpages]
+target = ghpages://tobbxy/tobbyxy.github.io
